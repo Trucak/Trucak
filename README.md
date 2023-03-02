@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trucak
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science at FCUP ( Faculdade de Ciências da Universidade do Porto )
-- 📫 How to reach me up202109646@edu.fc.up.pt
+- 📫 How to reach me tomas_martim@outlook.pt
 
 
 <!---
